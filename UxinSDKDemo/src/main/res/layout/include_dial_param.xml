@@ -1,0 +1,63 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="通话时长:" />
+
+        <EditText
+            android:id="@+id/edMaxTime"
+            android:inputType="numberSigned"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="限制通话时长"
+            android:text="10000" />
+    </LinearLayout>
+
+    <CheckBox
+        android:id="@+id/needRecord"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="是否录音" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="通话类型：3智能，2回拨，1直拨" />
+
+        <EditText
+            android:inputType="number"
+            android:id="@+id/edCallType"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="通话类型：3智能，2回拨，1直拨"
+            android:text="3" />
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/ed_calledPhone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="phone"
+        android:hint="被叫电话" />
+    <EditText
+        android:id="@+id/edCalledNickName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="被叫昵称（可以不填）" />
+
+</LinearLayout>

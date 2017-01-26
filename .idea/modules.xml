@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/UxinSDKDemo/UxinSDKDemo.iml" filepath="$PROJECT_DIR$/UxinSDKDemo/UxinSDKDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UxinSDKDemoAS.iml" filepath="$PROJECT_DIR$/UxinSDKDemoAS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UxinSDKLibrary/UxinSDKLibrary.iml" filepath="$PROJECT_DIR$/UxinSDKLibrary/UxinSDKLibrary.iml" />
+    </modules>
+  </component>
+</project>

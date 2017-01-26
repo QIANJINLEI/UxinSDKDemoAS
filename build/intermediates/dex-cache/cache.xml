@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\wb-qjl256634\Downloads\UxinSDKDemoAS\UxinSDKDemo\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="32ab8bede8cd600f25a5bb3fe15068c81c8910dc">
+        <dex dex="C:\Users\wb-qjl256634\Downloads\UxinSDKDemoAS\UxinSDKDemo\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0-alpha2_99029fec7867bc2a49ddfa15ac99739329f1ef6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ProgramFiles\Android\StudioSdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0-alpha2\support-annotations-24.0.0-alpha2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8071e1e6cd07e9253720313d6c14286a7ee424e0">
+        <dex dex="C:\Users\wb-qjl256634\Downloads\UxinSDKDemoAS\UxinSDKDemo\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-alpha2_c023fe2484126ced6bb29f96c9958264a8ee48d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wb-qjl256634\Downloads\UxinSDKDemoAS\UxinSDKDemo\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="853f7298b75b8c0c45909e905bbf0630486d0fde">
+        <dex dex="C:\Users\wb-qjl256634\Downloads\UxinSDKDemoAS\UxinSDKDemo\build\intermediates\pre-dexed\debug\instant-run_4411d931cac0a8397a9d82f2cb03d42b960cfb80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wb-qjl256634\Downloads\UxinSDKDemoAS\UxinSDKDemo\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="50383c065c7e0918a61a2afa8852a51c2d09a071">
+        <dex dex="C:\Users\wb-qjl256634\Downloads\UxinSDKDemoAS\UxinSDKDemo\build\intermediates\pre-dexed\debug\instant-run-bootstrap_95bafbf9a5f45a02c275721c4799233dc33d48ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wb-qjl256634\Downloads\UxinSDKDemoAS\UxinSDKDemo\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\wb-qjl256634\Downloads\UxinSDKDemoAS\UxinSDKDemo\build\intermediates\pre-dexed\debug\com.android.support-multidex-1.0.1_5435f83c2b2614d2ca6565000f459835ccfe4cab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wb-qjl256634\Downloads\UxinSDKDemoAS\UxinSDKDemo\build\intermediates\exploded-aar\UxinSDKDemoAS\UxinSDKLibrary\unspecified\jars\libs\UxinSDK1.8.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b071ae758f9ff87b4f6a83188bf9cb874f0e6acc">
+        <dex dex="C:\Users\wb-qjl256634\Downloads\UxinSDKDemoAS\UxinSDKDemo\build\intermediates\pre-dexed\debug\UxinSDK1.8.2.0_a73c1492d64b281d9a7be3b9e5e912c6ac3813ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wb-qjl256634\Downloads\UxinSDKDemoAS\UxinSDKDemo\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha2\jars\libs\internal_impl-24.0.0-alpha2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e460bc069dfd21d22770cf2a2370c9021b9c98a2">
+        <dex dex="C:\Users\wb-qjl256634\Downloads\UxinSDKDemoAS\UxinSDKDemo\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-alpha2_0a23ac50fe1162385f085d7818d058db7145afc0.jar" />
+    </item>
+
+</items>

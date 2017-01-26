@@ -1,0 +1,105 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/btnTcpState"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TCP连接状态" />
+
+        <Button
+            android:id="@+id/btnCloseTcpConnect"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="关闭长连接" />
+
+        <Button
+            android:id="@+id/btnReconnectTcp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="重连长连接" />
+
+        <Button
+            android:id="@+id/btnRC4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="RC4测试" />
+
+        <Button
+            android:id="@+id/btnTokenRefresh"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="更新token" />
+
+        <Button
+            android:id="@+id/btnGetBuild"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Build环境" />
+
+        <Button
+            android:id="@+id/btnTestBrocastd"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="心跳测试打开" />
+
+        <Button
+            android:id="@+id/btnTestBrocastdClose"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="心跳测试关闭" />
+
+        <Button
+            android:id="@+id/btnTestException"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="测试崩溃" />
+
+        <Button
+            android:id="@+id/btnTestNetConnect"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="测试网络连接" />
+
+        <Button
+            android:id="@+id/btnInsertContacts"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="插入商家专号" />
+
+        <Button
+            android:id="@+id/btnDeleteContacts"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="删除商家专号" />
+        <Button
+            android:id="@+id/btnRecordPermission"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="测试是否有录音权限" />
+        <Button
+            android:id="@+id/btnRequestRecordPermission"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="测试是申请录音权限" />
+        <Button
+            android:id="@+id/btnMD5File"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="测试文件MD5" />
+        <Button
+            android:id="@+id/TestActivityManager"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TestActivityManager" />
+        
+    </LinearLayout>
+
+</ScrollView>
